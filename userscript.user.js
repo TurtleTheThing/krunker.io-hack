@@ -13,7 +13,7 @@
 window.stop()
 document.innerHTML = ""
 
-class Hack {
+class.Hack {
     constructor() {
         this.camera = null
         this.inputs = null
